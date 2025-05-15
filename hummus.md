@@ -1,3 +1,4 @@
 # hummus
 ## ingredients
-*Chickpies
+*Chickpeas
+*roasted peppers
