@@ -5,4 +5,5 @@
 * salt
 * onion
 ## Instructions
-8 mask advocado
+* mask advocado
+* cut onion in small pieces
