@@ -1,0 +1,3 @@
+*tomato
+*onion
+*lime
