@@ -5,5 +5,7 @@
 * salt
 * onion
 ## Instructions
-8 mask advocado
-add lemon to mixture
+* mash advocado
+* add lemon to mixture
+* cut onion in small pieces
+
