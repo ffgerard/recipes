@@ -1,5 +1,5 @@
 *.png
 pictures/
 log*
-!**/final*
+!log_01
 
